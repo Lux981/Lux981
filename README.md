@@ -2,7 +2,7 @@
 - 👀 I’m interested in GameDev and Android Development.
 - 🌱 I’m currently learning Git, C++, BluePrints and Kotlin.
 - 💞️ I’m looking to collaborate on any GameDev studio.
-- 📫 How to reach me: tg:rakhmatullindamir
+- 📫 How to reach me: [t.me](https://t.me/rakhmatullindamir)
 
 <!---
 Lux981/Lux981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
