@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lux981
 - 👀 I’m interested in GameDev and Android Development.
-- 🌱 I’m currently learning C++, BluePrints and Kotlin.
+- 🌱 I’m currently learning Git, C++, BluePrints and Kotlin.
 - 💞️ I’m looking to collaborate on any GameDev studio.
 - 📫 How to reach me: tg:rakhmatullindamir
 
