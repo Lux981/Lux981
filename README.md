@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lux981
 - 👀 I’m interested in GameDev, Android Development and Stalker Modding.
-- 🌱 I’m currently learning Git,Python, C++, BluePrints.
+- 🌱 I’m currently learning Git, Python, C++, BluePrints.
 - 💞️ I’m looking to collaborate on any GameDev studio.
 - ✨ I’m want to work with Python programming language.
 - 📫 How to reach me: [t.me](https://t.me/rakhmatullindamir)
